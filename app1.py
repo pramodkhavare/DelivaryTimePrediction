@@ -59,7 +59,7 @@ from src.config.configuration import *
 from src.logger import logging 
 
 from src.pipeline.prediction_pipeline import CustomData ,PredictionPipeline
-from src.pipeline.training_pipeline import Train
+
 
 
 import os ,sys 
@@ -111,7 +111,7 @@ def predict_datapoint():
         
         result = int(pred[0])
         
-        return render_template("form.html",final_result = "Your Delivery Time IS. {}".format(result))
+        return render_template("result.html",final_result = "Your Delivery Time is. {}".format(result))
 
         
         

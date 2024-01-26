@@ -13,12 +13,7 @@ import os ,sys
 import pandas as pd 
 import numpy as np 
 
-class Train():
-    def __init__(self):
-        self.c = 0
-        print(f"********************{self.c}*******************")
-        
-        
+
    
 obj = DataIngestion()
 train_data ,test_data =obj.initiate_data_ingestion()

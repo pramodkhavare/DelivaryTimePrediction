@@ -1,0 +1,43 @@
+[2024-01-27 01:06:41,777] werkzeug -WARNING - * Debugger is active!
+[2024-01-27 01:06:41,782] werkzeug -INFO - * Debugger PIN: 974-487-211
+[2024-01-27 01:06:44,844] root -INFO -Prediction started
+[2024-01-27 01:06:44,962] root -INFO -Successfully predicted output 
+[2024-01-27 01:06:44,965] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:06:44] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:06:50,988] root -INFO -Prediction started
+[2024-01-27 01:06:51,002] root -INFO -Successfully predicted output 
+[2024-01-27 01:06:51,003] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:06:51] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:06:56,252] root -INFO -Prediction started
+[2024-01-27 01:06:56,264] root -INFO -Successfully predicted output 
+[2024-01-27 01:06:56,266] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:06:56] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:07:01,262] root -INFO -Prediction started
+[2024-01-27 01:07:01,282] root -INFO -Successfully predicted output 
+[2024-01-27 01:07:01,283] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:07:01] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:07:02,768] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:07:02] "GET /predict HTTP/1.1" 200 -
+[2024-01-27 01:07:07,942] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:07:07] "GET /predict HTTP/1.1" 200 -
+[2024-01-27 01:07:08,250] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:07:08] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-01-27 01:07:27,415] root -INFO -Prediction started
+[2024-01-27 01:07:27,428] root -INFO -Successfully predicted output 
+[2024-01-27 01:07:27,429] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:07:27] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:07:29,503] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:07:29] "GET /predict HTTP/1.1" 200 -
+[2024-01-27 01:07:37,063] root -INFO -Prediction started
+[2024-01-27 01:07:37,077] root -INFO -Successfully predicted output 
+[2024-01-27 01:07:37,077] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:07:37] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:07:39,452] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:07:39] "GET /predict HTTP/1.1" 200 -
+[2024-01-27 01:07:46,585] root -INFO -Prediction started
+[2024-01-27 01:07:46,597] root -INFO -Successfully predicted output 
+[2024-01-27 01:07:46,598] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:07:46] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:07:48,851] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:07:48] "GET /predict HTTP/1.1" 200 -
+[2024-01-27 01:09:14,318] root -INFO -Prediction started
+[2024-01-27 01:09:14,340] root -INFO -Successfully predicted output 
+[2024-01-27 01:09:14,341] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:09:14] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:09:21,192] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:09:21] "GET /predict HTTP/1.1" 200 -
+[2024-01-27 01:11:12,970] root -INFO -Prediction started
+[2024-01-27 01:11:12,990] root -INFO -Successfully predicted output 
+[2024-01-27 01:11:12,991] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:11:12] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:11:20,144] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:11:20] "GET /predict HTTP/1.1" 200 -
+[2024-01-27 01:12:56,510] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:12:56] "GET / HTTP/1.1" 200 -
+[2024-01-27 01:13:05,356] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:13:05] "GET /predict HTTP/1.1" 200 -
+[2024-01-27 01:13:05,364] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:13:05] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-01-27 01:13:22,763] root -INFO -Prediction started
+[2024-01-27 01:13:22,777] root -INFO -Successfully predicted output 
+[2024-01-27 01:13:22,778] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:13:22] "POST /predict HTTP/1.1" 200 -

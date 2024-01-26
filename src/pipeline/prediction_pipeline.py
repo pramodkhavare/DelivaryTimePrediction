@@ -63,7 +63,7 @@ class CustomData():
 class PredictionPipeline():
     def __init__(self):
         pass 
-    def predict(self):
+    def predict(self ,features):
         try:
             logging.info('Prediction started')
             preprocessor_file_path =PREPROCESSOR_OBJ_FILE_PATH 
@@ -72,7 +72,7 @@ class PredictionPipeline():
             preprocessor = load_model(preprocessor_file_path)
             model = load_model(model_file_path)
         
-            scaled_data = preprocessor.transform()
+            scaled_data = preprocessor.transform(features)
             pred = model.predict(scaled_data) 
             logging.info('Successfully predicted output ')
             return pred

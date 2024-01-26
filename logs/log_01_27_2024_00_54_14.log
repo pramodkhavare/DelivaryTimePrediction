@@ -1,0 +1,8 @@
+[2024-01-27 00:54:15,297] werkzeug -WARNING - * Debugger is active!
+[2024-01-27 00:54:15,303] werkzeug -INFO - * Debugger PIN: 974-487-211
+[2024-01-27 00:54:20,349] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 00:54:20] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-01-27 00:54:20,452] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 00:54:20] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-01-27 00:54:20,633] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 00:54:20] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-01-27 00:54:20,956] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 00:54:20] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-01-27 00:54:21,211] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 00:54:21] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-01-27 00:57:37,557] werkzeug -INFO - * Detected change in 'd:\\pramod khavare\\zomatopriceprediction2\\src\\pipeline\\prediction_pipeline.py', reloading

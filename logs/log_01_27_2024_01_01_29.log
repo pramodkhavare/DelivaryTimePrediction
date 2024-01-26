@@ -1,0 +1,44 @@
+[2024-01-27 01:01:30,584] werkzeug -WARNING - * Debugger is active!
+[2024-01-27 01:01:30,589] werkzeug -INFO - * Debugger PIN: 974-487-211
+[2024-01-27 01:01:34,791] root -INFO -Prediction started
+[2024-01-27 01:01:34,916] root -INFO -Successfully predicted output 
+[2024-01-27 01:01:34,924] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:01:34] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:01:40,220] root -INFO -Prediction started
+[2024-01-27 01:01:40,235] root -INFO -Successfully predicted output 
+[2024-01-27 01:01:40,236] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:01:40] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:01:47,758] root -INFO -Prediction started
+[2024-01-27 01:01:47,772] root -INFO -Successfully predicted output 
+[2024-01-27 01:01:47,773] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:01:47] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:02:02,205] root -INFO -Prediction started
+[2024-01-27 01:02:02,219] root -INFO -Successfully predicted output 
+[2024-01-27 01:02:02,220] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:02:02] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:02:17,358] root -INFO -Prediction started
+[2024-01-27 01:02:17,372] root -INFO -Successfully predicted output 
+[2024-01-27 01:02:17,373] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:02:17] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:02:23,463] root -INFO -Prediction started
+[2024-01-27 01:02:23,476] root -INFO -Successfully predicted output 
+[2024-01-27 01:02:23,476] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:02:23] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:03:39,250] root -INFO -Prediction started
+[2024-01-27 01:03:39,285] root -INFO -Successfully predicted output 
+[2024-01-27 01:03:39,286] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:03:39] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:03:45,290] root -INFO -Prediction started
+[2024-01-27 01:03:45,303] root -INFO -Successfully predicted output 
+[2024-01-27 01:03:45,304] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:03:45] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:03:51,172] root -INFO -Prediction started
+[2024-01-27 01:03:51,184] root -INFO -Successfully predicted output 
+[2024-01-27 01:03:51,185] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:03:51] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:03:57,706] root -INFO -Prediction started
+[2024-01-27 01:03:57,720] root -INFO -Successfully predicted output 
+[2024-01-27 01:03:57,720] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:03:57] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:04:04,228] root -INFO -Prediction started
+[2024-01-27 01:04:04,246] root -INFO -Successfully predicted output 
+[2024-01-27 01:04:04,247] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:04:04] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:04:17,707] root -INFO -Prediction started
+[2024-01-27 01:04:17,720] root -INFO -Successfully predicted output 
+[2024-01-27 01:04:17,721] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:04:17] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:04:26,422] root -INFO -Prediction started
+[2024-01-27 01:04:26,435] root -INFO -Successfully predicted output 
+[2024-01-27 01:04:26,436] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:04:26] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 01:06:30,590] root -INFO -Prediction started
+[2024-01-27 01:06:30,620] root -INFO -Successfully predicted output 
+[2024-01-27 01:06:30,621] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 01:06:30] "POST /predict HTTP/1.1" 200 -

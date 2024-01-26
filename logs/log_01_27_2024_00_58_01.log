@@ -1,0 +1,15 @@
+[2024-01-27 00:58:02,615] werkzeug -WARNING - * Debugger is active!
+[2024-01-27 00:58:02,622] werkzeug -INFO - * Debugger PIN: 974-487-211
+[2024-01-27 00:58:05,336] root -INFO -Prediction started
+[2024-01-27 00:58:05,587] root -INFO -Successfully predicted output 
+[2024-01-27 00:58:05,609] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 00:58:05] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 00:58:05,617] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 00:58:05] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-01-27 00:58:10,988] root -INFO -Prediction started
+[2024-01-27 00:58:11,000] root -INFO -Successfully predicted output 
+[2024-01-27 00:58:11,001] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 00:58:11] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 00:58:11,294] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 00:58:11] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-01-27 00:58:24,408] root -INFO -Prediction started
+[2024-01-27 00:58:24,425] root -INFO -Successfully predicted output 
+[2024-01-27 00:58:24,426] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 00:58:24] "POST /predict HTTP/1.1" 200 -
+[2024-01-27 00:58:24,433] werkzeug -INFO -127.0.0.1 - - [27/Jan/2024 00:58:24] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-01-27 00:59:04,205] werkzeug -INFO - * Detected change in 'd:\\pramod khavare\\zomatopriceprediction2\\app1.py', reloading
