@@ -1,0 +1,12 @@
+[2024-01-26 23:48:24,373] root -INFO -Data Ingestion started
+[2024-01-26 23:48:26,451] root -INFO -Splitting Data into train and test data
+[2024-01-26 23:48:26,477] root -INFO -Adding training data into csv file
+[2024-01-26 23:48:28,173] root -INFO -Adding testing data into csv file
+[2024-01-26 23:48:29,864] root -INFO -Data ingestion completed
+[2024-01-26 23:48:29,869] root -INFO -Initiated Data Transformation
+[2024-01-26 23:48:30,150] root -INFO -Transforming data
+[2024-01-26 23:48:30,150] root -INFO -********************Feature Engineering Started*******************
+[2024-01-26 23:48:32,151] root -INFO -Transformation Pipeline Initiated
+[2024-01-26 23:48:32,151] root -INFO -Pipeline completed
+[2024-01-26 23:48:42,780] root -INFO -We are able to transform data successfully
+[2024-01-26 23:48:42,784] root -INFO -Model training started

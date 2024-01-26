@@ -1,0 +1,5 @@
+[2024-01-26 20:20:55,199] root -INFO -Data Ingestion started
+[2024-01-26 20:20:56,059] root -INFO -Splitting Data into train and test data
+[2024-01-26 20:20:56,074] root -INFO -Adding training data into csv file
+[2024-01-26 20:20:56,533] root -INFO -Adding testing data into csv file
+[2024-01-26 20:20:56,982] root -INFO -Data ingestion completed

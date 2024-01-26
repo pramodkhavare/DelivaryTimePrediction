@@ -1,0 +1,16 @@
+[2024-01-26 20:36:44,168] root -INFO -Data Ingestion started
+[2024-01-26 20:36:46,143] root -INFO -Splitting Data into train and test data
+[2024-01-26 20:36:46,155] root -INFO -Adding training data into csv file
+[2024-01-26 20:36:47,838] root -INFO -Adding testing data into csv file
+[2024-01-26 20:36:49,533] root -INFO -Data ingestion completed
+[2024-01-26 20:36:49,538] root -INFO -Initiated Data Transformation
+[2024-01-26 20:36:49,829] root -INFO -Transforming data
+[2024-01-26 20:36:49,829] root -INFO -********************Feature Engineering Started*******************
+[2024-01-26 20:36:51,239] root -INFO -Transformation Pipeline Initiated
+[2024-01-26 20:36:51,239] root -INFO -Pipeline completed
+[2024-01-26 20:37:00,808] root -INFO -We are able to transform data successfully
+[2024-01-26 20:37:00,811] root -INFO -Model training started
+[2024-01-26 20:43:27,366] root -INFO -{'Random Forest': 0.9737489406092948, 'DecisionTreeRegressor': 0.9999154266919883, 'SVR': 0.5495800901158694, 'GradientBoostRegressor': 0.7599690173670416, 'XGBRegressor': 0.856791495645228}
+[2024-01-26 20:43:27,366] root -INFO -DecisionTreeRegressor
+[2024-01-26 20:43:27,371] root -INFO -Best model is DecisionTreeRegressor() , R2 score is 0.9999154266919883
+[2024-01-26 20:43:27,379] root -INFO -We are able to train model successfully
