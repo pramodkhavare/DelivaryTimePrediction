@@ -55,7 +55,7 @@ def predict_datapoint():
         
         result = int(pred[0])
         
-        return render_template("result.html",final_result = "Your Delivery Time is. {}".format(result))
+        return render_template("form.html",final_result = result)
 
         
         

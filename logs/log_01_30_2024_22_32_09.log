@@ -1,0 +1,63 @@
+[2024-01-30 22:32:14,823] werkzeug -WARNING - * Debugger is active!
+[2024-01-30 22:32:14,828] werkzeug -INFO - * Debugger PIN: 974-487-211
+[2024-01-30 22:32:40,345] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:32:40] "GET /predict HTTP/1.1" 200 -
+[2024-01-30 22:32:40,459] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:32:40] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-01-30 22:32:40,597] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:32:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-01-30 22:32:45,158] root -INFO -Prediction started
+[2024-01-30 22:32:45,782] root -INFO -Successfully predicted output 
+[2024-01-30 22:32:45,782] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:32:45] "POST /predict HTTP/1.1" 200 -
+[2024-01-30 22:32:45,790] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:32:45] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-01-30 22:32:52,160] root -INFO -Prediction started
+[2024-01-30 22:32:52,188] root -INFO -Successfully predicted output 
+[2024-01-30 22:32:52,189] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:32:52] "POST /predict HTTP/1.1" 200 -
+[2024-01-30 22:32:52,197] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:32:52] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-01-30 22:33:28,332] root -INFO -Prediction started
+[2024-01-30 22:33:28,344] root -INFO -Successfully predicted output 
+[2024-01-30 22:33:28,439] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:33:28] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-01-30 22:33:28,783] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:33:28] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-01-30 22:33:28,803] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:33:28] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-01-30 22:33:29,171] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:33:29] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-01-30 22:33:29,431] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:33:29] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-01-30 22:34:01,725] root -INFO -Prediction started
+[2024-01-30 22:34:01,740] root -INFO -Successfully predicted output 
+[2024-01-30 22:34:01,752] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:34:01] "POST /predict HTTP/1.1" 200 -
+[2024-01-30 22:34:02,034] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:34:02] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-01-30 22:34:05,479] root -INFO -Prediction started
+[2024-01-30 22:34:05,490] root -INFO -Successfully predicted output 
+[2024-01-30 22:34:05,491] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:34:05] "POST /predict HTTP/1.1" 200 -
+[2024-01-30 22:34:05,498] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:34:05] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-01-30 22:34:15,145] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:34:15] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-01-30 22:34:15,449] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:34:15] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-01-30 22:34:15,457] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:34:15] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-01-30 22:34:15,789] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:34:15] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-01-30 22:34:16,034] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:34:16] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-01-30 22:34:22,955] root -INFO -Prediction started
+[2024-01-30 22:34:22,967] root -INFO -Successfully predicted output 
+[2024-01-30 22:34:22,968] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:34:22] "POST /predict HTTP/1.1" 200 -
+[2024-01-30 22:34:22,977] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:34:22] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-01-30 22:35:46,074] root -INFO -Prediction started
+[2024-01-30 22:35:46,093] root -INFO -Successfully predicted output 
+[2024-01-30 22:35:46,103] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:35:46] "POST /predict HTTP/1.1" 200 -
+[2024-01-30 22:35:46,110] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:35:46] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-01-30 22:35:51,227] root -INFO -Prediction started
+[2024-01-30 22:35:51,242] root -INFO -Successfully predicted output 
+[2024-01-30 22:35:51,243] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:35:51] "POST /predict HTTP/1.1" 200 -
+[2024-01-30 22:35:51,539] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:35:51] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-01-30 22:36:07,847] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:36:07] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-01-30 22:36:07,858] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:36:07] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-01-30 22:36:08,079] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:36:08] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-01-30 22:36:08,407] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:36:08] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-01-30 22:36:08,664] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:36:08] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-01-30 22:36:15,703] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:36:15] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-01-30 22:36:15,712] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:36:15] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-01-30 22:36:16,019] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:36:16] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-01-30 22:36:16,345] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:36:16] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-01-30 22:36:20,320] root -INFO -Prediction started
+[2024-01-30 22:36:20,338] root -INFO -Successfully predicted output 
+[2024-01-30 22:36:20,339] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:36:20] "POST /predict HTTP/1.1" 200 -
+[2024-01-30 22:36:20,347] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:36:20] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-01-30 22:38:31,246] root -INFO -Prediction started
+[2024-01-30 22:38:31,256] root -INFO -Successfully predicted output 
+[2024-01-30 22:38:31,267] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:38:31] "POST /predict HTTP/1.1" 200 -
+[2024-01-30 22:38:31,274] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:38:31] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-01-30 22:39:22,426] werkzeug -INFO - * Detected change in 'D:\\Pramod Khavare\\ZomatoPricePrediction2\\app.py', reloading

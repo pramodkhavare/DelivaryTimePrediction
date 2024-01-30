@@ -131,16 +131,19 @@
 
                 <input type="submit" value="Submit">
             </form>
+            <br/>
             <br>
+
+            {%if final_result is not none%}
+            <h1> Your Delivery Time Is = {{final_result}}</h1>
+            {% endif %}
             <br>
-            <h3>{{ final_result  }}</h3>
-            
-            <br>
+
             <br>
             <p>Pramod Khavare</p>
             
             
-                <!-- JavaScript -->
+            <!-- JavaScript -->
                 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
                 integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
                 crossorigin="anonymous"></script>

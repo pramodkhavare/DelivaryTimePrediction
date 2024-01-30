@@ -1,0 +1,10 @@
+[2024-01-30 22:28:02,381] werkzeug -WARNING - * Debugger is active!
+[2024-01-30 22:28:02,398] werkzeug -INFO - * Debugger PIN: 974-487-211
+[2024-01-30 22:28:11,830] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:28:11] "GET / HTTP/1.1" 200 -
+[2024-01-30 22:28:13,249] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:28:13] "GET /predict HTTP/1.1" 200 -
+[2024-01-30 22:28:13,547] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:28:13] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-01-30 22:28:14,176] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:28:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-01-30 22:28:24,757] root -INFO -Prediction started
+[2024-01-30 22:28:25,909] root -INFO -Successfully predicted output 
+[2024-01-30 22:28:25,916] werkzeug -INFO -127.0.0.1 - - [30/Jan/2024 22:28:25] "POST /predict HTTP/1.1" 200 -
+[2024-01-30 22:32:06,397] werkzeug -INFO - * Detected change in 'D:\\Pramod Khavare\\ZomatoPricePrediction2\\app.py', reloading
