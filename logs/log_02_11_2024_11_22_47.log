@@ -1,0 +1,39 @@
+[2024-02-11 11:22:48,856] werkzeug -WARNING - * Debugger is active!
+[2024-02-11 11:22:48,863] werkzeug -INFO - * Debugger PIN: 974-487-211
+[2024-02-11 11:22:56,263] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:22:56] "GET /predict HTTP/1.1" 200 -
+[2024-02-11 11:22:56,307] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:22:56] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-02-11 11:22:56,830] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:22:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-02-11 11:23:16,163] root -INFO -Prediction started
+[2024-02-11 11:23:16,930] root -INFO -Successfully predicted output 
+[2024-02-11 11:23:16,931] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:23:16] "POST /predict HTTP/1.1" 200 -
+[2024-02-11 11:23:16,949] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:23:16] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-02-11 11:23:59,990] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:23:59] "GET /predict HTTP/1.1" 200 -
+[2024-02-11 11:24:00,016] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:24:00] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-02-11 11:24:05,719] root -INFO -Prediction started
+[2024-02-11 11:24:05,735] root -INFO -Successfully predicted output 
+[2024-02-11 11:24:05,736] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:24:05] "POST /predict HTTP/1.1" 200 -
+[2024-02-11 11:24:06,032] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:24:06] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-02-11 11:24:18,048] root -INFO -Prediction started
+[2024-02-11 11:24:18,075] root -INFO -Successfully predicted output 
+[2024-02-11 11:24:18,076] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:24:18] "POST /predict HTTP/1.1" 200 -
+[2024-02-11 11:24:18,085] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:24:18] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-02-11 11:24:30,102] root -INFO -Prediction started
+[2024-02-11 11:24:30,121] root -INFO -Successfully predicted output 
+[2024-02-11 11:24:30,122] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:24:30] "POST /predict HTTP/1.1" 200 -
+[2024-02-11 11:24:30,411] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:24:30] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-02-11 11:24:42,253] root -INFO -Prediction started
+[2024-02-11 11:24:42,282] root -INFO -Successfully predicted output 
+[2024-02-11 11:24:42,283] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:24:42] "POST /predict HTTP/1.1" 200 -
+[2024-02-11 11:24:42,292] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:24:42] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-02-11 11:25:01,306] root -INFO -Prediction started
+[2024-02-11 11:25:01,321] root -INFO -Successfully predicted output 
+[2024-02-11 11:25:01,324] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:25:01] "POST /predict HTTP/1.1" 200 -
+[2024-02-11 11:25:01,619] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:25:01] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-02-11 11:25:13,646] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:25:13] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-02-11 11:25:13,750] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:25:13] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-02-11 11:25:13,903] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:25:13] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-02-11 11:25:14,252] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:25:14] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-02-11 11:25:24,205] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:25:24] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2024-02-11 11:25:24,216] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:25:24] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-02-11 11:25:24,530] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:25:24] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-02-11 11:25:24,870] werkzeug -INFO -127.0.0.1 - - [11/Feb/2024 11:25:24] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
